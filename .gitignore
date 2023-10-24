@@ -1,3 +1,12 @@
+docs/site/
+
+# OSX Junk
+.DS_Store
+
+# test cache
+.cache/*
+tests/__pycache__/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
